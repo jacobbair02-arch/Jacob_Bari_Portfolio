@@ -1,91 +1,109 @@
+
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jacob Bair
+Data Scientist, Entreprenuer, and Accountant
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jacob.bair@utah.edu">jacob.bair@utah.edu</a>
+| <a href="http://en.wikipedia.org/wiki/Jacob_Bair">My wikipedia page</a>
 <!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
 | <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
 </div>
 
+---
 
-## Currently
+> **Currently**
+>
+> **Business Intelligence Analyst & Back Office Accountant**  
+> *Members Preferred Credit Union*
 
-Standing on the shoulders of giants
+## Specialized In
 
-### Specialized in
+`SQL` • `Python` • `Polars` • `Power BI` • `DAX` • `Excel VBA` • `QuickBooks Online`
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+---
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+**Bachelor of Science – Data Science**  
+*Brigham Young University–Idaho*  
+**2024 – 2026**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**Associate of General Science**  
+*Brigham Young University–Idaho*  
+**2023 – 2024**
 
-- Sizar
+---
 
-`1667 - death`
-__Trinity College, Cambridge__
+# Experience
 
-- Fellow
+### Operations Clerk / Business Intelligence Analyst
+*Members Preferred Credit Union • Idaho*
 
+- Queried and analyzed **70+ years** of member and financial data using **SQL**, supporting executive decisions impacting **$12 million** in assets.
+- Designed interactive **Power BI** dashboards using advanced **DAX** calculations for a **6-member Board of Directors**, increasing data visibility by **50%+**.
+- Managed back-office workflows across **5+** banking systems while processing **100+ daily transactions** with **99%+ accuracy**.
 
+---
 
-## Awards
+### Owner
+*Reflect Pro Homecare • Utah*
 
-`2012`
-President, *Royal Society*, London, UK
+- Built spreadsheet-based customer management systems supporting **200+ customers**, improving scheduling and operational visibility.
+- Launched and scaled a home service business to **$30,000+ in revenue within 90 days**, managing operations, marketing, and finances.
 
-Associate, *French Academy of Science*, Paris, France
+---
 
+### Student Body Office
+*Brigham Young University–Idaho*
 
+- Represented **17,000+ students**, facilitating communication between the student body and university leadership.
+- Planned and executed campus events for **2,000+ attendees**, coordinating volunteers and budgets up to **$5,000**.
 
-## Publications
+---
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+# Volunteer Leadership
 
-### Journals
+### Full-Time Missionary
+*The Church of Jesus Christ of Latter-day Saints*  
+*Cape Coast, Ghana*  
+**January 2021 – December 2023**
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Coordinated humanitarian and community service projects across multiple communities.
+- Developed leadership and cross-cultural communication skills while serving for **24 months**.
 
-`1669`
-Lectiones opticæ.
+---
 
-etc. etc. etc.
+### Non-Profit Auditor
+*Self-Reliant Living LLC*  
+**January 2020 – December 2021**
 
-### Patents
+- Evaluated **$400,000+** in annual organizational budgets to improve efficiency.
+- Collaborated **10+ hours per week** with leadership teams to strengthen budgeting processes.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+---
 
+# Technical Skills
 
-## Occupation
+| Data Analytics | Business Intelligence | Business Tools |
+|:---------------|:---------------------|:---------------|
+| `SQL` | `Power BI` | `Excel VBA` |
+| `Python` | `DAX` | `QuickBooks Online` |
+| `Polars` | `Data Visualization` | `Microsoft Excel` |
 
-`1600`
-__Royal Mint__, London
+---
 
-- Warden
-- Minted coins
+# Highlights
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
+- **70+ years** of financial data analyzed
+- Supported decisions involving **$12M** in assets
+- Generated **$30K+** in revenue within **90 days**
+- B.S. Data Science Candidate
+- International leadership experience in Ghana
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2026 -->
